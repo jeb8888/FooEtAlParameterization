@@ -1,8 +1,8 @@
 # How to contribute?
 
-There are many ways for you to contribute to this libraru.  The easiest way is to participate in discussion of features and issues.  You can also contribute by sending pull requests of features or bug fixes to us.  Contribution to the documentations at our [GitHub Pages](http://fictitiousnotreal.github.io/FooEtAlParameterization/) is also highly welcomed. 
+There are many ways for you to contribute to this libraru.  The easiest way is to participate in discussion of features and issues.  You can also contribute by sending pull requests of features or bug fixes to us.  Contribution to the documentations at our [GitHub Pages](http://fooetal.github.io/FooEtAlParameterization/) is also highly welcomed. 
 ##Discussion
-You can participate into discussions and ask questions about Foo et al. Parameterization package at our [GitHub issues](https://github.com/FooEtAlParameterization/foo_param/issues). 
+You can participate into discussions and ask questions about Foo et al. Parameterization package at our [GitHub issues](https://github.com/jeb8888/FooEtAlParameterization/issues). 
 ###Bug reports
 When reporting a bug at the issue tracker, please use the following template:
 ```
@@ -30,7 +30,7 @@ You will need to complete a Contributor License Agreement (CLA). Briefly, this a
 Please submit a Contributor License Agreement (CLA) before submitting a pull request. Please fill and submit the [Contributor License Agreement](https://cla.dotnetfoundation.org/). Be sure to include your GitHub user name along with the agreement. Only after we have received the signed CLA, we'll review the pull request that you send. This needs to only be done once for any .NET Foundation OSS project.
 
 ### Create a new issue on the issue tracker and link the pull request to it
-You should have an issue created on the [issue tracker](https://github.com/FooEtAlParameterization/foo_param/issues) before you work on the pull request. After the UCAR research team has reviewed this issue and change its label to "accepting pull request", you can issue a pull request to us in which the link to the related issue is included.
+You should have an issue created on the [issue tracker](https://github.com/jeb8888/FooEtAlParameterization/issues) before you work on the pull request. After the UCAR research team has reviewed this issue and change its label to "accepting pull request", you can issue a pull request to us in which the link to the related issue is included.
 ### Requirement of pull requests
 Your pull request should:
 
