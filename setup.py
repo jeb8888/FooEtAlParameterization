@@ -14,7 +14,7 @@ setup(
     description="Foo et al. Parameterization Package",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://github.com/FooEtAlParameterization/foo_param",
+    url="https://github.com/jeb8888/FooEtAlParameterization",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
