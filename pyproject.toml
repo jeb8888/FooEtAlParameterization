@@ -1,0 +1,18 @@
+[project]
+name = "fooparam"
+version = "1.0.1"
+authors = [
+  { name="Foo et al.", email="authors@foo.com" },
+]
+description = "A software package that calculates the complex (yet entirely fictitious) Foo et al. parameterization."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/FooEtAlParameterization/foo_param"
+Issues = "https://github.com/FooEtAlParameterization/foo_param/issues"
